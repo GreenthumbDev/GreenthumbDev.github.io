@@ -51,7 +51,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
    email: "eden.hgb@gmail.com"
-   rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
    github: greenthumbdev
    substack: https://edenha.substack.com/?r=3msxq1&utm_campaign=pub-share-checklist 
@@ -63,7 +63,7 @@ social-network-links:
 #  reddit: yourname
    linkedin: https://www.linkedin.com/in/eden-habtegebriel/
 #  xing: yourname
-   stackoverflow: "23879371/eden-habte"
+#   stackoverflow: "23879371/eden-habte"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
