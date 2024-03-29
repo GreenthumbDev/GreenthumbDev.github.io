@@ -50,19 +50,19 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "eden.hgb@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+   email: "eden.hgb@gmail.com"
+   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: greenthumbdev
+   github: greenthumbdev
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
- linkedin: https://www.linkedin.com/in/eden-habtegebriel/
+   linkedin: https://www.linkedin.com/in/eden-habtegebriel/
 #  xing: yourname
-stackoverflow: "23879371/eden-habte"
+   stackoverflow: "23879371/eden-habte"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
@@ -77,7 +77,7 @@ stackoverflow: "23879371/eden-habte"
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
- kaggle: edenha15 
+   kaggle: edenha15 
 #  hackerrank: yourname
 #  gitlab: yourname
 #  itchio: yourname
